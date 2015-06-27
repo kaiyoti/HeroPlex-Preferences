@@ -3,5 +3,8 @@
 # White List Directories
 !*/
 
+# White List Data Directory
+!*Plug-in Support/Data/*plugins*
+
 # White List XML Files
 !*.xml
