@@ -1,2 +1,7 @@
 *
-!.xml
+
+# White List Directories
+!*/
+
+# White List XML Files
+!*.xml
