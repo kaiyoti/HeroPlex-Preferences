@@ -1,0 +1,3 @@
+https://github.com/coder-alpha/CcloudTv.bundle
+https://github.com/TehCrucible/G2Gfm.bundle
+https://github.com/plexinc-plugins/Team-Coco.bundle
