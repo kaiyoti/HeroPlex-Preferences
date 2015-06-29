@@ -2,5 +2,4 @@ https://github.com/coder-alpha/CcloudTv.bundle
 https://github.com/TehCrucible/G2Gfm.bundle
 https://github.com/plexinc-plugins/Team-Coco.bundle
 https://github.com/plexinc-plugins/TED-Talks.bundle
-https://github.com/plexinc-plugins/Pandora.bundle
 https://github.com/plexinc-plugins/ComedyCentral.bundle
