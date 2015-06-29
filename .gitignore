@@ -8,3 +8,6 @@
 
 # White List XML Files
 !*.xml
+
+# Allow Channels.txt
+!Channels.txt
