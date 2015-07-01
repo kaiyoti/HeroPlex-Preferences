@@ -1,80 +1,88 @@
 (dp0
-S'Plex-Pin-Pinhttp://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8'
+S'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103'
 p1
-S'32Key4SplitUpdated:6/26-SN360CanadaSportsNetworkKey4Splithttp://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8'
-p2
-sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403'
-p3
-S'99Key4SplitUpdated:6/26-SyFy HDKey4Splithttp://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403'
-p4
-sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325'
-p5
-S'86Key4SplitESPN 2 HDKey4Splithttp://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325'
-p6
-sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934'
-p7
-S'84Key4SplitUpdated:6/26-ESPN HD[alternative]Key4Splithttp://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934'
-p8
-sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374'
-p9
-S'116Key4SplitUpdated:6/26-ABC 22 HDKey4Splithttp://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374'
-p10
-sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/tuc280rbycwnsvs/playlist.m3u8?wowzasessionid=1419880467'
-p11
-S'88Key4SplitUpdated:6/26-A&EKey4Splithttp://93.174.95.125:1935/edge/_definst_/tuc280rbycwnsvs/playlist.m3u8?wowzasessionid=1419880467'
-p12
-sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602'
-p13
-S'95Key4SplitUpdated:6/26-HGTVKey4Splithttp://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602'
-p14
-sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103'
-p15
 S'41Key4SplitUpdated:6/26-NBCHDKey4Splithttp://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103'
-p16
-sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319'
-p17
-S'72Key4SplitUpdated:6/26-TBSKey4Splithttp://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319'
-p18
-sS'98'
-p19
-S'http://x.co/otach98'
-p20
+p2
+sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/tuc280rbycwnsvs/playlist.m3u8?wowzasessionid=1419880467'
+p3
+S'88Key4SplitUpdated:6/26-A&EKey4Splithttp://93.174.95.125:1935/edge/_definst_/tuc280rbycwnsvs/playlist.m3u8?wowzasessionid=1419880467'
+p4
+sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403'
+p5
+S'99Key4SplitUpdated:6/26-SyFy HDKey4Splithttp://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403'
+p6
 sS'116'
-p21
+p7
 S'removed'
-p22
+p8
 sS'Channel: 116 (Updated:6/26-ABC 22 HD)'
-p23
-g22
-sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151'
-p24
-S'98Key4SplitUpdated:6/26-Showtime HDKey4Splithttp://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151'
-p25
-sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571'
-p26
-S'93Key4SplitUpdated:6/26-HBO HDKey4Splithttp://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571'
-p27
+p9
+g8
 sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300'
-p28
+p10
 S'81Key4SplitUpdated:6/26-USA NetworkKey4Splithttp://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300'
-p29
-sS'93'
-p30
-S'http://x.co/otach93'
-p31
+p11
 sS'81'
-p32
+p12
 S'http://x.co/otach81'
-p33
+p13
 sS'Plex-Pin-Pinhttp://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8'
-p34
+p14
 S'79Key4SplitUpdated:6/26-TeleMAXKey4Splithttp://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8'
-p35
-sS'items_dict'
-p36
-(dp37
+p15
+sS'93'
+p16
+S'http://x.co/otach93'
+p17
 sS'84'
-p38
+p18
 S'http://x.co/otach84'
+p19
+sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374'
+p20
+S'116Key4SplitUpdated:6/26-ABC 22 HDKey4Splithttp://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374'
+p21
+sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934'
+p22
+S'84Key4SplitUpdated:6/26-ESPN HD[alternative]Key4Splithttp://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934'
+p23
+sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319'
+p24
+S'72Key4SplitUpdated:6/26-TBSKey4Splithttp://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319'
+p25
+sS'items_dict'
+p26
+(dp27
+sS'Plex-Pin-Pinhttp://edge.ailetv.net/org10/cbcazerbaycan_me/playlist.m3u8'
+p28
+S'365Key4SplitUpdated:6/18-CBCKey4Splithttp://edge.ailetv.net/org10/cbcazerbaycan_me/playlist.m3u8'
+p29
+sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602'
+p30
+S'95Key4SplitUpdated:6/26-HGTVKey4Splithttp://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602'
+p31
+sS'98'
+p32
+S'http://x.co/otach98'
+p33
+sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571'
+p34
+S'93Key4SplitUpdated:6/26-HBO HDKey4Splithttp://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571'
+p35
+sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325'
+p36
+S'86Key4SplitESPN 2 HDKey4Splithttp://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325'
+p37
+sS'Plex-Pin-Pinhttp://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8'
+p38
+S'32Key4SplitUpdated:6/26-SN360CanadaSportsNetworkKey4Splithttp://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8'
 p39
+sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022'
+p40
+S'91Key4SplitUpdated:6/26-Food NetworkKey4Splithttp://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022'
+p41
+sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151'
+p42
+S'98Key4SplitUpdated:6/26-Showtime HDKey4Splithttp://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151'
+p43
 s.
