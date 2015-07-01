@@ -5,7 +5,7 @@ S'86Key4SplitESPN 2 HDKey4Splithttp://93.174.95.125:1935/edge/_definst_/rgyus7ao
 p2
 sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934'
 p3
-S'84Key4SplitESPN HD[alternative]Key4Splithttp://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934'
+S'84Key4SplitUpdated:6/26-ESPN HD[alternative]Key4Splithttp://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934'
 p4
 sS'98'
 p5
@@ -18,23 +18,27 @@ p8
 sS'Channel: 116 (Updated:6/26-ABC 22 HD)'
 p9
 g8
-sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571'
+sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151'
 p10
-S'93Key4SplitHBO HDKey4Splithttp://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571'
+S'98Key4SplitUpdated:6/26-Showtime HDKey4Splithttp://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151'
 p11
-sS'93'
+sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571'
 p12
-S'http://x.co/otach93'
+S'93Key4SplitUpdated:6/26-HBO HDKey4Splithttp://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571'
 p13
-sS'81'
+sS'93'
 p14
-S'http://x.co/otach81'
+S'http://x.co/otach93'
 p15
-sS'items_dict'
+sS'81'
 p16
-(dp17
-sS'84'
+S'http://x.co/otach81'
+p17
+sS'items_dict'
 p18
+(dp19
+sS'84'
+p20
 S'http://x.co/otach84'
-p19
+p21
 s.
