@@ -10,19 +10,23 @@ p4
 sS'Channel: 116 (Updated:6/26-ABC 22 HD)'
 p5
 g4
-sS'93'
+sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571'
 p6
-S'http://x.co/otach93'
+S'93Key4SplitUpdated:6/26-HBO HDKey4Splithttp://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571'
 p7
-sS'81'
+sS'93'
 p8
-S'http://x.co/otach81'
+S'http://x.co/otach93'
 p9
-sS'items_dict'
+sS'81'
 p10
-(dp11
-sS'84'
+S'http://x.co/otach81'
+p11
+sS'items_dict'
 p12
+(dp13
+sS'84'
+p14
 S'http://x.co/otach84'
-p13
+p15
 s.
