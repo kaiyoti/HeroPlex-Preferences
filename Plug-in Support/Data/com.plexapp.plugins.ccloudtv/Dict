@@ -26,19 +26,23 @@ sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist
 p12
 S'93Key4SplitUpdated:6/26-HBO HDKey4Splithttp://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571'
 p13
-sS'93'
+sS'Plex-Pin-Pinhttp://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300'
 p14
-S'http://x.co/otach93'
+S'81Key4SplitUpdated:6/26-USA NetworkKey4Splithttp://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300'
 p15
-sS'81'
+sS'93'
 p16
-S'http://x.co/otach81'
+S'http://x.co/otach93'
 p17
-sS'items_dict'
+sS'81'
 p18
-(dp19
-sS'84'
+S'http://x.co/otach81'
+p19
+sS'items_dict'
 p20
+(dp21
+sS'84'
+p22
 S'http://x.co/otach84'
-p21
+p23
 s.
