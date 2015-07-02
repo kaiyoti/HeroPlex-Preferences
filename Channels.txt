@@ -5,3 +5,4 @@ https://github.com/plexinc-plugins/TED-Talks.bundle
 https://github.com/plexinc-plugins/The-Daily-Show.bundle
 https://github.com/mikew/ss-plex.bundle
 https://github.com/TehCrucible/rawrANIME.bundle
+https://github.com/ericenns/HGTV_Canada.bundle
