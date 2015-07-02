@@ -4,3 +4,4 @@ https://github.com/plexinc-plugins/Team-Coco.bundle
 https://github.com/plexinc-plugins/TED-Talks.bundle
 https://github.com/plexinc-plugins/The-Daily-Show.bundle
 https://github.com/plex-unofficial/The-Comedy-Network.bundle
+https://github.com/plex-unofficial/GlobalNews.ca.bundle
