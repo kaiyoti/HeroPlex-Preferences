@@ -1,6 +1,6 @@
 https://github.com/coder-alpha/CcloudTv.bundle
 https://github.com/TehCrucible/G2Gfm.bundle
 https://github.com/plexinc-plugins/Team-Coco.bundle
-https://github.com/plexinc-plugins/TED-Talks.bundle
 https://github.com/mikew/ss-plex.bundle
 https://github.com/plexinc-plugins/CBS.bundle
+https://github.com/ReallyFuzzy/LetMeWatchThis.bundle
