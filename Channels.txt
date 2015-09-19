@@ -4,7 +4,6 @@ https://github.com/plexinc-plugins/Team-Coco.bundle
 https://github.com/mikew/ss-plex.bundle
 https://github.com/plexinc-plugins/CBS.bundle
 https://github.com/ReallyFuzzy/LetMeWatchThis.bundle
-https://github.com/piplongrun/lmwt-kiss.bundle
 https://github.com/jwsolve/KissAnime.bundle
 https://github.com/jwsolve/UFlix.bundle
 https://github.com/jwsolve/Putlocker.bundle
