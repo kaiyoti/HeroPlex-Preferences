@@ -9,3 +9,4 @@ https://github.com/jwsolve/KissAnime.bundle
 https://github.com/jwsolve/UFlix.bundle
 https://github.com/jwsolve/Putlocker.bundle
 https://github.com/jwsolve/KissCartoons.bundle
+https://github.com/Jidly/channelpear.bundle
